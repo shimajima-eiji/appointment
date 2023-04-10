@@ -1,6 +1,7 @@
 # ページのご案内
 コミュニケーション用のリポジトリ。
-スカウト人事の方やご連絡の方も[こちら](https://github.com/shimajima-eiji/appointment/discussions/1)（不定期で確認します）
+<br>スカウト人事の方やご連絡の方も[こちら](https://github.com/shimajima-eiji/appointment/discussions/1)
+<br>（不定期で確認しています）
 
 - [ご連絡用ページ](https://github.com/shimajima-eiji/appointment/discussions/1)
 
